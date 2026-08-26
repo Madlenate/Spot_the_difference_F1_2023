@@ -6,6 +6,9 @@ This project explores whether lap-level driving patterns in Formula 1 can be use
 **Authors:** Winnie Trinh ([witrinh@calpoly.edu](mailto:witrinh@calpoly.edu)), Nathan Madlansacay ([nmadlans@calpoly.edu](mailto:nmadlans@calpoly.edu))
 Dept. of Computer Science / Dept. of Statistics, California Polytechnic State University, San Luis Obispo
 
+
+LINK TOO Streamlit APP: [Spot The Difference F1 Analysis](https://madlenate-spot-the-difference-f1-2023-app-unwcdf.streamlit.app/)
+
 ---
 
 ## Overview
